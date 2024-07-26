@@ -11,5 +11,5 @@ Duration
 Total_Stops
 Additional_Info
 Price (Target column)
-I performed EDA on the dataset to find insights about the data that will help in building the model and making business inferences.
-Finally, I predicted the price using the XGB regressor with an R² = 0.89.
+Performed EDA on the dataset to find insights about the data, which will help in building the model and making business inferences. 
+Finally, predicted the price using the XGB regressor with an R² = 0.89.
